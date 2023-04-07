@@ -17,9 +17,9 @@ unsigned long previousMillis6 = 0;
 const long interval1 = 100000;  // interval at which to blink (milliseconds)
 const long interval2 = 200000;  // interval at which to blink (milliseconds)
 const long interval3 = 400000;  // interval at which to blink (milliseconds)
-const long interval4 = 800000;  // interval at which to blink (milliseconds)
-const long interval5 = 50000;  // interval at which to blink (milliseconds)
-const long interval6 = 160000;  // interval at which to blink (milliseconds)
+const long interval4 = 500000;  // interval at which to blink (milliseconds)
+const long interval5 = 600000;  // interval at which to blink (milliseconds)
+const long interval6 = 700000;  // interval at which to blink (milliseconds)
 
 const long currentMillis = micros();
 
